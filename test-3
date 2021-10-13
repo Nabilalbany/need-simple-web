@@ -1,0 +1,18 @@
+ <header id="header">
+        <div class="container">
+            <div id="branding">
+
+                <h1>SMK <span class="highlight">IDN</span></h1>
+
+            </div>
+            <nav>
+
+                <ul>
+                    <li class="current"><a href="index.html" class="current">Home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="service.html">service</a></li>
+                </ul>
+
+            </nav>
+        </div>
+    </header>
